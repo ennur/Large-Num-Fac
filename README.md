@@ -1,2 +1,3 @@
 # Large-Num-Fac
-Büyük sayıların veri yapıları kullanılarak faktoriyelinin bulunması
+
+Finding the factorial of large numbers using data structures.
